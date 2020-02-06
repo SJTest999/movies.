@@ -1,2 +1,3 @@
 # Movies
-This is simply a list of movies that I enjoyed by year.
+
+Watch these movies; they're my favorite. 
