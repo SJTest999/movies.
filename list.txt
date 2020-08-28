@@ -39,8 +39,23 @@ Greyhound, https://www.imdb.com/title/tt6048922/
 
 ## Directors
   Martin Scorsese:
-  Raging Bull, https://www.imdb.com/title/tt0081398/?ref_=fn_al_tt_1
-  Goodfellas, https://www.imdb.com/title/tt0099685/?ref_=nm_flmg_dr_41
-  Casino, https://www.imdb.com/title/tt0112641/?ref_=nm_flmg_dr_36
-  Gangs of New York, https://www.imdb.com/title/tt0217505/?ref_=nm_flmg_dr_28
-  Shutter Island, https://www.imdb.com/title/tt1130884/?ref_=nm_flmg_dr_19
+      Raging Bull, https://www.imdb.com/title/tt0081398/?ref_=fn_al_tt_1
+      Goodfellas, https://www.imdb.com/title/tt0099685/?ref_=nm_flmg_dr_41
+      Casino, https://www.imdb.com/title/tt0112641/?ref_=nm_flmg_dr_36
+      Gangs of New York, https://www.imdb.com/title/tt0217505/?ref_=nm_flmg_dr_28
+      Shutter Island, https://www.imdb.com/title/tt1130884/?ref_=nm_flmg_dr_19
+  
+  ## Notable TV Series
+  Fargo
+  True Detective
+  Yellowstone
+  The Deuce 
+  Atlanta
+  
+  ## Reasonable TV Series
+  Breaking Bad
+  Dexter
+  Shameless
+  Community
+  
+  
